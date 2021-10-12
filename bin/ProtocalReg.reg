@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\myWebshell]
+@="URL:myWebshell Protocol Handler"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\myWebshell\DefaultIcon]
+@="D:\\D\\liujinghua\\LJHUA\\myperl\\src\\sshlogin.bat"
+[HKEY_CLASSES_ROOT\myWebshell\shell]
+[HKEY_CLASSES_ROOT\myWebshell\shell\open]
+[HKEY_CLASSES_ROOT\myWebshell\shell\open\command]
+@="D:\\D\\liujinghua\\LJHUA\\myperl\\src\\sshlogin.bat \"%1\""
+
+
+
+
+
